@@ -9,7 +9,7 @@ Personal Kodi repository.
 ## Installation
 
 1. Download the repository zip file:<br>
-   [repository.tommistolercz-1.0.0.zip](http://github.com/tommistolercz/repository.tommistolercz/archive/repository.tommistolercz-1.0.0.zip)
+   [repository.tommistolercz-1.0.0.zip](http://github.com/repository.tommistolercz/repository.tommistolercz/repository.tommistolercz-1.0.0.zip)
 
 2. Then in Kodi:<br>
     Settings > Add-ons > Install from zip file... (list and select downloaded file, press OK)
