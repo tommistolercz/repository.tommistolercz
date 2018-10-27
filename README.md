@@ -20,8 +20,8 @@ Personal Kodi repository.
 
 1. My own Kodi add-ons:
 
-    - [plugin.video.vk](https://github.com/tommistolercz/plugin.video.vk)
-    - [script.philipshue](https://github.com/tommistolercz/script.philipshue)
+    - [plugin.video.vk](https://github.com/tommistolercz/plugin.video.vk) **[WIP]**
+    - [script.philipshue](https://github.com/tommistolercz/script.philipshue) **[WIP]**
     - ...
 
 2. My favourite 3rd party Kodi add-ons and repositories:
