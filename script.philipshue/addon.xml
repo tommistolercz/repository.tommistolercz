@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.philipshue" name="Philips Hue" version="1.0.0" provider-name="TomMistolerCZ">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Philips Hue for Kodi</summary>
+        <description lang="en_GB">Kodi add-on for controlling Philips Hue lights.</description>
+        <summary lang="cs_CZ">Philips Hue pro Kodi</summary>
+        <description lang="cs_CZ">Kodi doplněk pro ovládání světel Philips Hue.</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum></forum>
+        <website></website>
+        <source>https://github.com/tommistolercz/script.philipshue</source>
+        <email></email>
+        <news></news>
+        <assets>
+            <icon>resources/icon.png</icon>
+            <fanart></fanart>
+            <screenshot></screenshot>
+            <screenshot></screenshot>
+            <screenshot></screenshot>
+        </assets>
+    </extension>
+</addon>
