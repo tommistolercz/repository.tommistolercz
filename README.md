@@ -26,7 +26,8 @@ Personal Kodi repository.
 
 2. My favourite 3rd party Kodi add-ons and repositories:
 
-    - [plugin.audio.spotify](https://github.com/marcelveldt/plugin.audio.spotify)
+    <!-- - [plugin.audio.spotify](https://github.com/marcelveldt/plugin.audio.spotify) -->
+    <!-- - [plugin.image.kindgirls](https://github.com/mking2203/plugin.image.kindgirls) -->
     - ...
 
 <!--3. My custom Kodi userdata files:-->
