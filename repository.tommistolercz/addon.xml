@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.tommistolercz" name="TomMistolerCZ" version="1.0.0" provider-name="TomMistolerCZ">
-	<extension point="xbmc.addon.repository">
-		<info compressed="false">https://raw.githubusercontent.com/tommistolercz/repository.tommistolercz/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/tommistolercz/repository.tommistolercz/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/tommistolercz/repository.tommistolercz/master/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">TomMistolerCZ's repository</summary>
-		<description lang="en_GB">Personal Kodi repository.</description>
-		<summary lang="cs_CZ">TomMistolerCZ repozitář</summary>
-		<description lang="cs_CZ">Osobní Kodi repozitář.</description>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-		<forum></forum>
-		<website>https://www.kodi.tv</website>
-		<source>https://github.com/tommistolercz/repository.tommistolercz</source>
-		<email></email>
-		<news></news>
-		<assets>
-			<icon>resources/icon.png</icon>
-			<fanart></fanart>
-			<screenshot></screenshot>
-			<screenshot></screenshot>
-			<screenshot></screenshot>
-		</assets>
-	</extension>
+<addon id="repository.tommistolercz" name="TomMistolerCZ" version="1.0.1" provider-name="TomMistolerCZ">
+    <extension point="xbmc.addon.repository">
+        <info compressed="false">https://raw.githubusercontent.com/tommistolercz/repository.tommistolercz/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/tommistolercz/repository.tommistolercz/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/tommistolercz/repository.tommistolercz/master/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">TomMistolerCZ</summary>
+        <description lang="en_GB">Personal Kodi add-on repository.</description>
+        <summary lang="cs_CZ">TomMistolerCZ</summary>
+        <description lang="cs_CZ">Osobní repozitář Kodi doplňků.</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <website>https://www.kodi.tv</website>
+        <source>https://github.com/tommistolercz/repository.tommistolercz</source>
+        <assets>
+            <icon>resources/icon.png</icon>
+        </assets>
+    </extension>
 </addon>
