@@ -15,7 +15,7 @@ Personal Kodi add-on repository.
 ## Installation
 
 1. Download the repository zip file:<br>
-    [repository.tommistolercz-1.0.1.zip](https://github.com/tommistolercz/repository.tommistolercz/releases/download/v1.0.1/repository.tommistolercz-1.0.1.zip)
+    [repository.tommistolercz-1.0.2.zip](https://github.com/tommistolercz/repository.tommistolercz/releases/download/v1.0.2/repository.tommistolercz-1.0.2.zip)
     
 2. Install it in Kodi:<br>
     `Kodi > Settings > Add-ons > Install from zip file...`
