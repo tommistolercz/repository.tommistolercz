@@ -2,7 +2,7 @@
 
 # TomMistolerCZ (repository.tommistolercz)
 
-Personal Kodi add-on repository.
+#### Personal Kodi add-on repository.
 
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -10,16 +10,15 @@ Personal Kodi add-on repository.
 
 ## Requirements
 
-- [Kodi](https://kodi.tv) v17+ installed
+- [Kodi](https://kodi.tv) v17+
 
 ## Installation
 
 1. Download the repository zip file:<br>
-    [repository.tommistolercz-1.0.3.zip](https://github.com/tommistolercz/repository.tommistolercz/releases/download/v1.0.3/repository.tommistolercz-1.0.3.zip)
+    [Latest release](https://github.com/tommistolercz/repository.tommistolercz/releases/latest)
     
-2. Install it in Kodi:<br>
-    `Kodi > Settings > Add-ons > Install from zip file...`
-
+2. Install in Kodi:<br>
+    `Kodi > Settings > Add-ons > Install from zip file...`<br>
     [How to install add-ons from zip files](https://kodi.wiki/view/HOW-TO:Install_add-ons_from_zip_files)
 
 ## Content
