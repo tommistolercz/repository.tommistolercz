@@ -4,6 +4,10 @@
 
 #### Personal Kodi add-on repository.
 
+![GitHub release](https://img.shields.io/github/release/tommistolercz/repository.tommistolercz.svg) 
+![GitHub license](https://img.shields.io/github/license/tommistolercz/repository.tommistolercz.svg) 
+![GitHub downloads](https://img.shields.io/github/downloads/tommistolercz/repository.tommistolercz/total.svg)
+
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Content](#content)
